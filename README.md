@@ -69,3 +69,13 @@ Actively updating as I solve new problems.
 ## License
 
 This project is licensed under the MIT License.
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0177-nth-highest-salary) |
+| [0178-rank-scores](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0178-rank-scores) |
+| [0601-human-traffic-of-stadium](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0601-human-traffic-of-stadium) |
+<!---LeetCode Topics End-->
