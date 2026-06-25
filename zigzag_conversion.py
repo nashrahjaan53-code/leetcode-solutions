@@ -17,4 +17,4 @@ class Solution:
             
             current_row += step
     
-        return ''.join(row)
+        return ''.join(rows)
