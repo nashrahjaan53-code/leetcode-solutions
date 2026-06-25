@@ -95,4 +95,16 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
