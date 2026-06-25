@@ -69,3 +69,10 @@ Actively updating as I solve new problems.
 ## License
 
 This project is licensed under the MIT License.
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0176-second-highest-salary) |
+<!---LeetCode Topics End-->
