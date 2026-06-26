@@ -105,11 +105,13 @@ This project is licensed under the MIT License.
 | ------- |
 | [0011-container-with-most-water](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0015-3sum) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -140,4 +142,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
