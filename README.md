@@ -123,6 +123,7 @@ This project is licensed under the MIT License.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
@@ -210,4 +211,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
