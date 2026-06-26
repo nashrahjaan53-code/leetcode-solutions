@@ -112,6 +112,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 ## Sliding Window
 |  |
 | ------- |
