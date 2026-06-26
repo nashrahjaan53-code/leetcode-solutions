@@ -232,3 +232,15 @@ Solutions in this repository reflect my current understanding and may be revisit
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+<!---LeetCode Topics End-->
