@@ -1,0 +1,29 @@
+class Solution:
+    def convert(self,s,numRows):
+        if numRows == 1:
+            return s
+        row = [''] * numRows
+        current_row = 0 
+        step = 1
+
+        for char in s:
+            row[current_row] += char
+
+            if current_row == 0:
+                step = 1
+            elif current_row == numRows - 1:
+                step =- 1
+
+            current_row += step
+
+
+        return ''.join(row)
+      
+
+
+
+
+
+
+      
+        
