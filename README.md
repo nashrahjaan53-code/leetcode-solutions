@@ -123,6 +123,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0009-palindrome-number](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -202,4 +203,8 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
