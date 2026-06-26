@@ -104,6 +104,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | ------- |
 | [0002-add-two-numbers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
