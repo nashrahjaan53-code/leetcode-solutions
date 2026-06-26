@@ -9,7 +9,7 @@
 
 ##  Overview
 
-A personal collection of LeetCode problem solutions written in **Python**. This repository serves as a structured record of my problem-solving journey — with a focus on writing clean, optimized, and well-reasoned code.
+A personal collection of LeetCode problem solutions written in **Python**. This repository serves as a structured record of my problem-solving journey  with a focus on writing clean, optimized, and well-reasoned code.
 
 ---
 
@@ -39,7 +39,7 @@ Each file corresponds to a single problem, following this naming convention:
 For every problem, I follow this process:
 
 1. **Understand** the problem and explore edge cases
-2. **Brute-force first** — get a working solution before optimizing
+2. **Brute-force first** get a working solution before optimizing
 3. **Optimize** — improve time/space complexity where possible
 4. **Refactor** — keep the code clean, readable, and well-commented
 
