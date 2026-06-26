@@ -71,6 +71,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -113,4 +115,8 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
