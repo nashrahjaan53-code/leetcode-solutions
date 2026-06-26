@@ -78,14 +78,16 @@ For every problem, I follow this process:
 # LeetCode Topics
 
 ###  Database
-
+|  |
+| ------- |
 - [0176 - Second Highest Salary](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0176-second-highest-salary)
 - [0177 - Nth Highest Salary](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0177-nth-highest-salary)
 - [0178 - Rank Scores](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0178-rank-scores)
 - [0601 - Human Traffic of Stadium](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0601-human-traffic-of-stadium)
 
 ### String
-
+|  |
+| ------- |
 - [0008 - String to Integer (atoi)](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0008-string-to-integer-atoi)
 - [0010 - Regular Expression Matching](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0010-regular-expression-matching)
 - [0012 - Integer to Roman](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0012-integer-to-roman)
@@ -99,27 +101,31 @@ For every problem, I follow this process:
 - [0032 - Longest Valid Parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0032-longest-valid-parentheses)
 
 ###  Math
-
+|  |
+| ------- |
 - [0009 - Palindrome Number](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0009-palindrome-number)
 - [0012 - Integer to Roman](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0012-integer-to-roman)
 - [0013 - Roman to Integer](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0013-roman-to-integer)
 - [0029 - Divide Two Integers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0029-divide-two-integers)
 
 ### Dynamic Programming
-
+|  |
+| ------- |
 - [0010 - Regular Expression Matching](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0010-regular-expression-matching)
 - [0022 - Generate Parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0022-generate-parentheses)
 - [0032 - Longest Valid Parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0032-longest-valid-parentheses)
 
 ###  Recursion
-
+|  |
+| ------- |
 - [0010 - Regular Expression Matching](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0010-regular-expression-matching)
 - [0021 - Merge Two Sorted Lists](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0021-merge-two-sorted-lists)
 - [0024 - Swap Nodes in Pairs](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs)
 - [0025 - Reverse Nodes in k-Group](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group)
 
 ###  Array
-
+|  |
+| ------- |
 - [0011 - Container With Most Water](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0011-container-with-most-water)
 - [0014 - Longest Common Prefix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0014-longest-common-prefix)
 - [0015 - 3Sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0015-3sum)
@@ -134,7 +140,8 @@ For every problem, I follow this process:
 
 
 ###  Two Pointers
-
+|  |
+| ------- |
 - [0011 - Container With Most Water](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0011-container-with-most-water)
 - [0015 - 3Sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0015-3sum)
 - [0016 - 3Sum Closest](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0016-3sum-closest)
@@ -146,7 +153,7 @@ For every problem, I follow this process:
 - [0033 - Search in Rotated Sorted Array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array)
 
 
-|
+
 ## Binary Search
 |  |
 | ------- |
