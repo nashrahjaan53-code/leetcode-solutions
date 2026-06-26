@@ -109,6 +109,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 ## String
 |  |
 | ------- |
@@ -116,6 +117,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0005-longest-palindromic-substring](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 ## Sliding Window
 |  |
 | ------- |
@@ -132,4 +134,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
