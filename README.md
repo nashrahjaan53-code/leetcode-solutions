@@ -78,6 +78,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
@@ -106,6 +107,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0002-add-two-numbers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0012-integer-to-roman) |
 ## Recursion
 |  |
 | ------- |
@@ -119,6 +121,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0006-zigzag-conversion](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0012-integer-to-roman) |
 ## Sliding Window
 |  |
 | ------- |
