@@ -158,6 +158,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0038-count-and-say) |
 ## Sliding Window
 |  |
 | ------- |
