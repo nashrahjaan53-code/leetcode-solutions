@@ -133,6 +133,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0013-roman-to-integer](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -173,4 +174,8 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
