@@ -73,6 +73,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
@@ -125,6 +126,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0010-regular-expression-matching](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -147,4 +149,8 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
