@@ -245,6 +245,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0046-permutations](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0052-n-queens-ii) |
 ## Stack
 |  |
 | ------- |
