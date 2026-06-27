@@ -99,6 +99,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0055-jump-game](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -282,6 +283,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0037-sudoku-solver](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -295,4 +297,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | ------- |
 | [0043-multiply-strings](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
