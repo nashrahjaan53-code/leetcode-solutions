@@ -157,6 +157,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0043-multiply-strings](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0060-permutation-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -167,6 +168,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0025-reverse-nodes-in-k-group](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0060-permutation-sequence) |
 ## String
 |  |
 | ------- |
