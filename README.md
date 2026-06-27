@@ -84,6 +84,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0035-search-insert-position](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
@@ -232,4 +234,8 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | ------- |
 | [0036-valid-sudoku](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
