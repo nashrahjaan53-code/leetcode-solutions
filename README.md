@@ -91,6 +91,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0045-jump-game-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0048-rotate-image) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -144,6 +145,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0013-roman-to-integer](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -258,6 +260,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | ------- |
 | [0036-valid-sudoku](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0048-rotate-image) |
 ## Enumeration
 |  |
 | ------- |
