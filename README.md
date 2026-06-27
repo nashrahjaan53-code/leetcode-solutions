@@ -93,6 +93,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0047-permutations-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0051-n-queens) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -243,6 +244,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0040-combination-sum-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0051-n-queens) |
 ## Stack
 |  |
 | ------- |
