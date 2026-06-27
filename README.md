@@ -101,6 +101,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0057-insert-interval](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0066-plus-one) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -161,6 +162,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0050-powx-n](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
