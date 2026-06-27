@@ -95,6 +95,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0049-group-anagrams](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -273,6 +274,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0036-valid-sudoku](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0054-spiral-matrix) |
 ## Enumeration
 |  |
 | ------- |
@@ -285,4 +287,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
