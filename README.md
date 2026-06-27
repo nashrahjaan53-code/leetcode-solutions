@@ -97,6 +97,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0053-maximum-subarray](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -241,6 +242,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0018-4sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0056-merge-intervals) |
 ## Backtracking
 |  |
 | ------- |
