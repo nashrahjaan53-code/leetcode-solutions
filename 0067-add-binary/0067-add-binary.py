@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def addBinary(self, a, b):
         result = []
         carry = 0
