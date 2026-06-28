@@ -106,6 +106,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0068-text-justification](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0075-sort-colors) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -238,6 +239,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0031-next-permutation](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -276,6 +278,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0047-permutations-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0075-sort-colors) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Backtracking
 |  |
