@@ -103,6 +103,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0063-unique-paths-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0068-text-justification) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -201,6 +202,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0058-length-of-last-word](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0068-text-justification) |
 ## Sliding Window
 |  |
 | ------- |
@@ -320,6 +322,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0054-spiral-matrix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0068-text-justification) |
 ## Combinatorics
 |  |
 | ------- |
