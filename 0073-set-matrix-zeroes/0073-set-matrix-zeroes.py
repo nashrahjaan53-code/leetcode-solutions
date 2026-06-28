@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def setZeroes(self, matrix):
         m, n = len(matrix), len(matrix[0])
         first_row_has_zero  = any(matrix[0][j] == 0 for j in range(n))
