@@ -123,6 +123,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0041-first-missing-positive](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -211,11 +212,13 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0068-text-justification](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 ## Binary Search
 |  |
 | ------- |
