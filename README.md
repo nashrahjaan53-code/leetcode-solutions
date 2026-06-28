@@ -102,6 +102,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0059-spiral-matrix-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0066-plus-one) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -243,6 +244,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0044-wildcard-matching](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0055-jump-game) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Trie
 |  |
 | ------- |
@@ -256,6 +258,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0047-permutations-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Backtracking
 |  |
 | ------- |
