@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def maxSum(self, nums, k, mul):
         nums.sort(reverse=True)
         total = 0
