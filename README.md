@@ -367,4 +367,8 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 |  |
 | ------- |
 | [0079-word-search](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0079-word-search) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
