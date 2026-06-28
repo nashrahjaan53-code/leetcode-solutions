@@ -165,6 +165,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0060-permutation-sequence](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -199,6 +200,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0049-group-anagrams](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -292,6 +294,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
@@ -316,6 +319,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0043-multiply-strings](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0067-add-binary) |
 ## Combinatorics
 |  |
 | ------- |
