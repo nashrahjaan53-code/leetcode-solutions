@@ -101,6 +101,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0057-insert-interval](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0066-plus-one) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -237,6 +238,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0055-jump-game](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -298,6 +300,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0054-spiral-matrix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 ## Enumeration
 |  |
 | ------- |
