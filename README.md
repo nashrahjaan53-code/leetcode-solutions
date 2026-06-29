@@ -408,5 +408,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0197-rising-temperature](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 <!---LeetCode Topics End-->
