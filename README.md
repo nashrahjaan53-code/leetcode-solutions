@@ -111,6 +111,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0079-word-search](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -317,6 +318,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0032-longest-valid-parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -352,6 +354,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Simulation
 |  |
 | ------- |
