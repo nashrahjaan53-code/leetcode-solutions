@@ -393,4 +393,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0185-department-top-three-salaries](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0197-rising-temperature) |
+| [0262-trips-and-users](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0262-trips-and-users) |
 <!---LeetCode Topics End-->
