@@ -29,14 +29,14 @@ class Solution:
 
 
             
-            # Try all possible split positions
+
             for k in range(1, length):
-                # Case 1: No swap - substrings maintain order
+
                 if solve(i, j, k) and solve(i+k, j+k, length-k):
                     memo[key] = True
                     return True
                 
-                # Case 2: Swap - substrings are swapped
+
                 if solve(i, j+length-k, k) and solve(i+k, j, length-k):
                     memo[key] = True
                     return True
