@@ -185,6 +185,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0067-add-binary](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0089-gray-code) |
 ## Recursion
 |  |
 | ------- |
@@ -318,6 +319,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0077-combinations](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0089-gray-code) |
 ## Stack
 |  |
 | ------- |
@@ -341,6 +343,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0029-divide-two-integers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0089-gray-code) |
 ## Matrix
 |  |
 | ------- |
