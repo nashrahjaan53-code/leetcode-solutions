@@ -291,6 +291,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0085-maximal-rectangle](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -335,6 +336,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0089-gray-code](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Stack
 |  |
 | ------- |
@@ -421,4 +423,16 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0511-game-play-analysis-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
