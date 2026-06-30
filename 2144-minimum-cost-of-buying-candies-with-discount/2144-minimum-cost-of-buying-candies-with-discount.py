@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def minimumCost(self, cost):
         cost.sort()
         total = 0  
