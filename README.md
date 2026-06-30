@@ -412,6 +412,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0079-word-search](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0100-same-tree) |
 ## Database
 |  |
 | ------- |
@@ -436,6 +437,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0096-unique-binary-search-trees](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -450,4 +452,9 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0096-unique-binary-search-trees](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
