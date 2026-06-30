@@ -190,6 +190,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0069-sqrtx](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 ## Recursion
 |  |
 | ------- |
@@ -292,6 +293,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0087-scramble-string](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 ## Greedy
 |  |
 | ------- |
@@ -427,12 +429,15 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
