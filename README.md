@@ -230,6 +230,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0076-minimum-window-substring](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0091-decode-ways) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -287,6 +288,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0072-edit-distance](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0091-decode-ways) |
 ## Greedy
 |  |
 | ------- |
