@@ -418,6 +418,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0099-recover-binary-search-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Database
 |  |
 | ------- |
@@ -446,6 +447,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0101-symmetric-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -464,6 +466,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0101-symmetric-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -471,6 +474,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0101-symmetric-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
