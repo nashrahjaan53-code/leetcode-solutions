@@ -120,6 +120,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0120-triangle) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -317,6 +318,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0115-distinct-subsequences](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0120-triangle) |
 ## Greedy
 |  |
 | ------- |
