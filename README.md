@@ -445,6 +445,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0100-same-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -462,12 +463,14 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0100-same-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
