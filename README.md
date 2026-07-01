@@ -183,6 +183,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0092-reverse-linked-list-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Math
 |  |
 | ------- |
@@ -439,6 +440,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0112-path-sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Database
 |  |
 | ------- |
@@ -478,6 +480,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0112-path-sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -509,6 +512,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0112-path-sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -520,6 +524,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
