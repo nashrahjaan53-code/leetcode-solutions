@@ -247,6 +247,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0091-decode-ways](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -309,6 +310,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0095-unique-binary-search-trees-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 ## Greedy
 |  |
 | ------- |
