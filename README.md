@@ -431,6 +431,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0104-maximum-depth-of-binary-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0112-path-sum) |
 ## Database
 |  |
 | ------- |
@@ -467,6 +468,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -495,6 +497,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -505,6 +508,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0104-maximum-depth-of-binary-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0112-path-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
