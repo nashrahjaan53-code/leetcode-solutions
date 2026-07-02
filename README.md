@@ -124,6 +124,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1732-find-the-highest-altitude](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -153,6 +154,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -577,6 +579,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
