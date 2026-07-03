@@ -162,6 +162,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0127-word-ladder](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -208,6 +209,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 ## Math
 |  |
 | ------- |
