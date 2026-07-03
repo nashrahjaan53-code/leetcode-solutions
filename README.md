@@ -169,6 +169,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0140-word-break-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0146-lru-cache) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -219,6 +220,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0141-linked-list-cycle](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -659,4 +661,12 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
