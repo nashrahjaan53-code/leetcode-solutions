@@ -131,6 +131,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0136-single-number](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1732-find-the-highest-altitude](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -165,6 +166,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0133-clone-graph](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -283,6 +285,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0131-palindrome-partitioning](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -358,6 +361,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0131-palindrome-partitioning](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [3620-network-recovery-pathways](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
@@ -376,6 +380,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0140-word-break-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -411,6 +416,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0113-path-sum-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0140-word-break-ii) |
 ## Stack
 |  |
 | ------- |
@@ -491,6 +497,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | ------- |
 | [0070-climbing-stairs](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0140-word-break-ii) |
 ## Depth-First Search
 |  |
 | ------- |
