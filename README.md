@@ -133,6 +133,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0139-word-break](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1732-find-the-highest-altitude](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -248,6 +249,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0089-gray-code](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
@@ -451,6 +453,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0143-reorder-list](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
