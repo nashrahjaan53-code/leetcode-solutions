@@ -136,6 +136,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0150-evaluate-reverse-polish-notation](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1732-find-the-highest-altitude](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -348,6 +349,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0142-linked-list-cycle-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0148-sort-list) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -415,6 +417,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0088-merge-sorted-array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0148-sort-list) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Backtracking
@@ -658,12 +661,14 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0133-clone-graph) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
