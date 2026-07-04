@@ -316,6 +316,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0151-reverse-words-in-a-string](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -463,6 +464,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0126-word-ladder-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0257-binary-tree-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
@@ -574,6 +576,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0133-clone-graph](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Database
 |  |
@@ -620,6 +623,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0129-sum-root-to-leaf-numbers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -657,6 +661,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0129-sum-root-to-leaf-numbers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
