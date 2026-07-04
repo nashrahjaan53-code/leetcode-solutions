@@ -257,6 +257,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0096-unique-binary-search-trees](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0241-different-ways-to-add-parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -269,6 +270,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0050-powx-n](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## String
 |  |
 | ------- |
@@ -311,6 +313,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0139-word-break](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0241-different-ways-to-add-parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -398,6 +401,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0139-word-break](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [3620-network-recovery-pathways](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
@@ -544,6 +548,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0070-climbing-stairs](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
