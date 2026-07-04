@@ -134,6 +134,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0140-word-break-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -387,6 +388,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0132-palindrome-partitioning-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [3620-network-recovery-pathways](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
