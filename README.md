@@ -141,6 +141,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0240-search-a-2d-matrix-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1301-number-of-paths-with-max-score](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1732-find-the-highest-altitude](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -405,6 +406,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0140-word-break-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [1301-number-of-paths-with-max-score](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
@@ -522,6 +524,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0240-search-a-2d-matrix-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1301-number-of-paths-with-max-score](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
