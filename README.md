@@ -606,6 +606,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0585-investments-in-2016) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 ## Tree
 |  |
