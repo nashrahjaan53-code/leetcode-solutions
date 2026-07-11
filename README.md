@@ -621,6 +621,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0608-tree-node) |
+| [0610-triangle-judgement](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0610-triangle-judgement) |
 ## Tree
 |  |
 | ------- |
