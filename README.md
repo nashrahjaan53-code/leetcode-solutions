@@ -550,6 +550,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Monotonic Stack
 |  |
