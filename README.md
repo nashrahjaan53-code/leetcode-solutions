@@ -158,6 +158,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -272,6 +273,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -385,6 +387,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0151-reverse-words-in-a-string](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -465,6 +468,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -570,6 +574,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0059-spiral-matrix-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0068-text-justification) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -779,4 +784,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
