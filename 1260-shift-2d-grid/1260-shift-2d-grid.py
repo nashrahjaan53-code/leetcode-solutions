@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def shiftGrid(self, grid, k):
         m, n = len(grid), len(grid[0])
         flat = sum(grid, [])
