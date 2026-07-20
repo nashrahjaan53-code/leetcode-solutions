@@ -139,6 +139,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0239-sliding-window-maximum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1288-remove-covered-intervals](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -562,6 +563,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0085-maximal-rectangle](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -589,6 +591,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0059-spiral-matrix-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0068-text-justification) |
+| [1260-shift-2d-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
