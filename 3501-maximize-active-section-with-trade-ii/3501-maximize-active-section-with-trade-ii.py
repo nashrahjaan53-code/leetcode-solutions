@@ -5,7 +5,7 @@ class Solution:
         n = len(s)
         total_ones = s.count('1')
 
-        # Build run-length blocks: (start, end, char)
+
         blocks = []
         i = 0
         while i < n:
@@ -20,20 +20,20 @@ class Solution:
 
         NEG = float('-inf')
 
-        # Precompute full (unclipped) left/right zero-run length for each '1' block
+
         left_zero_len = [0] * m
         right_zero_len = [0] * m
         for idx in range(m):
             if blocks[idx][2] == '1':
-                if idx - 1 >= 0:  # guaranteed '0' due to run alternation
+                if idx - 1 >= 0:
                     left_zero_len[idx] = blocks[idx-1][1] - blocks[idx-1][0] + 1
-                if idx + 1 < m:  # guaranteed '0'
+                if idx + 1 < m:  
                     right_zero_len[idx] = blocks[idx+1][1] - blocks[idx+1][0] + 1
 
         gain_full = [ (left_zero_len[idx] + right_zero_len[idx]) if blocks[idx][2] == '1' else NEG
                       for idx in range(m) ]
 
-        # Sparse table for range-max over gain_full
+
         sparse = [gain_full[:]]
         k = 1
         while (1 << k) <= max(m, 1):
@@ -58,14 +58,14 @@ class Solution:
         def candidate_gain(j, l, r, bi_l, bi_r):
             if blocks[j][2] != '1':
                 return NEG
-            # left neighbor
+ 
             if j - 1 == bi_l:
                 lst, len_, _ = blocks[j - 1]
                 cl, cr = max(lst, l), min(len_, r)
                 left_len = cr - cl + 1 if cl <= cr else 0
             else:
                 left_len = left_zero_len[j]
-            # right neighbor
+  
             if j + 1 == bi_r:
                 rst, ren, _ = blocks[j + 1]
                 cl, cr = max(rst, l), min(ren, r)
@@ -100,10 +100,10 @@ class Solution:
             ans.append(total_ones + best_gain)
 
         return ans
+ 
 
-        """
-        :type s: str
-        :type queries: List[List[int]]
-        :rtype: List[int]
-        """
+
+
+
+
         
