@@ -283,6 +283,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -489,6 +490,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
