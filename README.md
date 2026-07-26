@@ -139,6 +139,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0239-sliding-window-maximum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1288-remove-covered-intervals](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -278,6 +279,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0149-max-points-on-a-line](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -484,6 +486,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0147-insertion-sort-list](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
