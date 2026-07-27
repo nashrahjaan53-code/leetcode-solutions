@@ -146,6 +146,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1732-find-the-highest-altitude](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -489,6 +490,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0628-maximum-product-of-three-numbers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -542,6 +544,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0023-merge-k-sorted-lists](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
