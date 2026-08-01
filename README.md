@@ -139,6 +139,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0239-sliding-window-maximum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0486-predict-the-winner](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
@@ -282,6 +283,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0149-max-points-on-a-line](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0486-predict-the-winner](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -308,6 +310,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0060-permutation-sequence](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0486-predict-the-winner](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -456,6 +459,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0140-word-break-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0486-predict-the-winner](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -850,4 +854,8 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
