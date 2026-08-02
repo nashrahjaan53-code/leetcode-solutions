@@ -37,9 +37,9 @@ class Solution:
             j = i
             while j + 1 < n and nums[j + 1] < nums[j]:
                 j += 1
-            # run [i .. j] is strictly decreasing
+
             if j > i:
-                run_max_A = NEG_INF          # max (maxleft[p] - prefix[p]) for p < current q
+                run_max_A = NEG_INF         
                 for q in range(i + 1, j + 1):
                     p = q - 1
                     if maxleft[p] > NEG_INF:
