@@ -706,6 +706,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0608-tree-node](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0619-biggest-single-number) |
+| [1251-average-selling-price](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1251-average-selling-price) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## Tree
 |  |
