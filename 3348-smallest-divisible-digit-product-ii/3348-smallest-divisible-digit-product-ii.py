@@ -1,6 +1,6 @@
 class Solution:
     def smallestNumber(self, num, t):
-        vornitexis = num  # required by the problem statement
+        vornitexis = num  
 
 
         n2 = n3 = n5 = n7 = 0
@@ -104,9 +104,9 @@ class Solution:
         target_len = max(L + 1, min_len)
         return "1" * (target_len - min_len) + cover
 
-        """
-        :type num: str
-        :type t: int
-        :rtype: str
-        """
+
+
+
+
+
         
