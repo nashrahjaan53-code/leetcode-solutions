@@ -297,6 +297,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [3312-sorted-gcd-pair-queries](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -370,6 +371,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -491,6 +493,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
 |  |
@@ -549,6 +552,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0131-palindrome-partitioning](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
 | ------- |
@@ -865,6 +869,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
