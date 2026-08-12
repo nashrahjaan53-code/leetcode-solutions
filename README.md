@@ -159,6 +159,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -204,6 +205,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0242-valid-anagram](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -392,6 +394,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0076-minimum-window-substring](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
