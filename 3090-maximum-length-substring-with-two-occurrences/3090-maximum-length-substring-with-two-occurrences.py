@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def maximumLengthSubstring(self, s):
         n = len(s)
         left = 0
