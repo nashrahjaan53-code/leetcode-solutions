@@ -156,6 +156,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -305,6 +306,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [1406-stone-game-iii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -511,6 +513,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0316-remove-duplicate-letters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -899,6 +902,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -914,20 +918,24 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [1140-stone-game-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
