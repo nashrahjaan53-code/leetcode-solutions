@@ -164,6 +164,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -576,6 +577,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -880,6 +882,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
