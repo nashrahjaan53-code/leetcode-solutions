@@ -23,6 +23,7 @@ class Solution:
         min_dist = min(critical[i] - critical[i-1] for i in range(1,len(critical)))
         max_dist = critical[-1] - critical[0]
         return [min_dist, max_dist]
+        
        
 
 
