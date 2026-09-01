@@ -180,6 +180,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3640-trionic-array-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3640-trionic-array-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -227,6 +228,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -660,6 +662,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Matrix
 |  |
@@ -684,6 +687,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Enumeration
 |  |
 | ------- |
@@ -876,6 +880,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
