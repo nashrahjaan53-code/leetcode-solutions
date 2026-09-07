@@ -410,6 +410,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0242-valid-anagram](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0940-distinct-subsequences-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1927-sum-game) |
@@ -528,6 +529,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0241-different-ways-to-add-parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1406-stone-game-iii) |
