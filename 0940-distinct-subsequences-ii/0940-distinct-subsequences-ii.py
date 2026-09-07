@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def distinctSubseqII(self, s):
         MOD = 10**9 + 7
         last = [0] * 26
