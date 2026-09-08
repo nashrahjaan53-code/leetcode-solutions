@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def countCommas(self, n):
         total = 0
         for x in range(1, n + 1):
