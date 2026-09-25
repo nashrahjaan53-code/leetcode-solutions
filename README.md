@@ -227,6 +227,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0146-lru-cache](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0242-valid-anagram](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [1096-brace-expansion-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -433,6 +434,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0316-remove-duplicate-letters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0940-distinct-subsequences-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1927-sum-game) |
@@ -623,6 +625,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0148-sort-list](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -663,6 +666,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0131-palindrome-partitioning](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [1096-brace-expansion-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
@@ -681,6 +685,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0155-min-stack](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -928,6 +933,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0127-word-ladder](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0133-clone-graph) |
+| [1096-brace-expansion-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
