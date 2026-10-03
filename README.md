@@ -1076,6 +1076,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | ------- |
 | [0020-valid-parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
