@@ -197,6 +197,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [3640-trionic-array-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3640-trionic-array-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -628,6 +629,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Trie
 |  |
 | ------- |
@@ -665,6 +667,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
