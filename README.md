@@ -155,6 +155,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1732-find-the-highest-altitude](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -275,6 +276,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -361,6 +363,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [1406-stone-game-iii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1927-sum-game) |
@@ -596,6 +599,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -829,6 +833,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -840,6 +845,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0139-word-break](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -927,6 +933,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0144-binary-tree-preorder-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -937,6 +944,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0099-recover-binary-search-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -966,6 +974,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0144-binary-tree-preorder-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -1000,6 +1009,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -1132,4 +1142,8 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
