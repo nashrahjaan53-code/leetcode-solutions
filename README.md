@@ -211,6 +211,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [3886-sum-of-sortable-integers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
