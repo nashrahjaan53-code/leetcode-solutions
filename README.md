@@ -139,6 +139,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0239-sliding-window-maximum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0835-image-overlap) |
@@ -365,6 +366,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0149-max-points-on-a-line](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0836-rectangle-overlap) |
