@@ -205,6 +205,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-trionic-array-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3640-trionic-array-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -551,6 +552,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -581,6 +583,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -675,6 +678,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -719,6 +723,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
