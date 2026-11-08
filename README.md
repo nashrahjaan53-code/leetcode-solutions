@@ -149,6 +149,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [1254-number-of-closed-islands](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
+| [1267-count-servers-that-communicate](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -845,6 +846,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [1254-number-of-closed-islands](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
+| [1267-count-servers-that-communicate](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -929,6 +931,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0145-binary-tree-postorder-traversal](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [1254-number-of-closed-islands](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -1060,6 +1063,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [1096-brace-expansion-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
+| [1267-count-servers-that-communicate](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -1075,6 +1079,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0128-longest-consecutive-sequence](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [1254-number-of-closed-islands](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -1144,6 +1149,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
