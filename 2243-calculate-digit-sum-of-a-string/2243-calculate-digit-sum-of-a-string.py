@@ -1,0 +1,17 @@
+class Solution:
+    def digitSum(self, s, k):
+        while len(s) > k:
+            new_s = []
+            for i in range(0, len(s), k):
+                group = s[i:i+k]
+                total = sum(int(c) for c in group)
+                new_s.append(str(total))
+            s = ''.join(new_s)
+        return s
+
+
+
+
+
+
+        
