@@ -262,6 +262,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0149-max-points-on-a-line](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0242-valid-anagram](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -500,6 +501,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -1177,6 +1179,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1267-count-servers-that-communicate](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
