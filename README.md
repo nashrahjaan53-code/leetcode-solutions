@@ -154,6 +154,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -330,6 +331,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -397,6 +399,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [0836-rectangle-overlap](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1510-stone-game-iv) |
@@ -1158,6 +1161,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | ------- |
 | [0146-lru-cache](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/0155-min-stack) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1266,4 +1270,8 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
