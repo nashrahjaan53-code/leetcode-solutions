@@ -237,6 +237,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [3886-sum-of-sortable-integers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -297,6 +298,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3934-smallest-unique-subarray](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -588,6 +590,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3934-smallest-unique-subarray](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1279,4 +1282,16 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/nashrahjaan53-code/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
